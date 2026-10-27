@@ -1,0 +1,8 @@
+{
+  "name": "Clínica Thalia Carvalho",
+  "description": "Sistema de agendamento online de alta sofisticação para Clínica Thalia Carvalho em Jandira - SP (Rua Nicolau Maevsky 329), com lembretes automáticos via WhatsApp 24h e dashboard financeiro.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
